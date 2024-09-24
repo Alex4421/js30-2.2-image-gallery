@@ -26,7 +26,7 @@ const button = document.getElementById('icon-search')
 // навешиваем обработчик на событие клик
 button.addEventListener('click', function () {
     getData()
-})
+});
 
 document.addEventListener("DOMContentLoaded", function() {
   const searchInput = document.getElementById("search-input");

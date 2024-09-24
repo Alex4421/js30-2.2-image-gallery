@@ -91,3 +91,9 @@ h2{
   #icon-search{
     cursor: pointer;
   }
+  /* #icon-search:hover{
+    background-color: orange;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 10px;
+  } */
